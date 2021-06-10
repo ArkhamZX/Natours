@@ -1,0 +1,10 @@
+{
+    "scss.lint.vendorPrefix": "ignore",
+    "css.lint.vendorPrefix": "ignore",
+    "less.lint.vendorPrefix": "ignore",
+    "css.lint.unknownProperties": "ignore",
+    "less.lint.unknownProperties": "ignore",
+    "scss.lint.unknownProperties": "ignore",
+    "git.ignoreLimitWarning": true,
+    
+}
